@@ -6,5 +6,5 @@ int aleatorio(){
    
     result=(int)rand()%RANGO;
     
-    return result%10;
+    return result;
 }
